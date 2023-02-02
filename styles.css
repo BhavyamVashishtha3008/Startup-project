@@ -1,0 +1,101 @@
+body{
+    font-family: "Montserrat";
+    
+}
+#title{
+    background-color:rgb(230, 228, 228) ;
+    color: #444444;
+}
+#Features{
+    background-color: rgb(221, 220, 220); 
+    padding: 7% 15%;
+}
+#contact{
+    background-color: #1d425b;
+    text-align: center;
+    padding: 2% 10%;
+
+}
+
+#footer{
+    background-color: #1d425b;
+    text-align: center;
+    padding: 1.5rem 0 0 0;
+
+}
+.feature-box{
+    text-align: center;
+    padding: 5%;
+}
+h1{
+    font-family: "Montserrat";
+    font-size: 3rem;
+    line-height: 1.5;
+}
+h3{
+    color: white;
+    font-family: "Montserrat";
+    font-size: 1.75rem;
+}
+p{
+    font-family: "Montserrat-blank";
+    font-size: 1.25rem;
+    color: white;
+}
+.container-fluid{
+    padding: 3% 15% 7%;
+}
+.image{
+    width: 55%;
+    margin: 0 0 0 20%;
+}
+.icon{
+    color: #444444;
+    margin-bottom:1rem;
+
+}
+.icon:hover{
+    color: #171010;
+    
+}
+.insta{
+    padding: 0 2% ;
+    font-size: 1.25rem;
+
+}
+.fb{
+    padding: 0 2% ;
+    font-size: 1.25rem;
+
+}
+.linkedin{
+    padding: 0 2% ;
+    font-size: 1.25rem;
+
+}
+.navbar{
+    padding:0 0 4.5rem;
+}
+
+.nav-item{
+    padding: 0 18px;
+}
+
+.nav-link{
+    font-size: 1.25rem;
+    font-family: "Ubuntu";
+    color: #444444;
+}
+
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 3.5rem;
+    font-weight: solid;
+    color: #444444;
+}
+.download-button {
+    margin: 5% 3% 5% 3%;
+}
+.download-button1{
+    margin: 2% 2% 2% 2%;
+}
